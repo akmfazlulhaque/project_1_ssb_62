@@ -1,0 +1,37 @@
+    h1{
+		color: red;
+	}
+	#second{
+		background-color: green
+	}
+	.my_class{
+		font-size: 40px
+	}
+	.my_class2{
+		text-align: center;
+	}
+	.frame{
+		margin: 0 auto
+
+	}
+	.frame img{ 
+		width: 33%;
+
+	}
+	table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+	th, td {
+    padding: 15px;
+}
+th {
+    text-align: left;
+}
+table {
+    border-spacing: 5px;
+}
+table#t01 {
+    width: 100%; 
+    background-color: orange;
+}
